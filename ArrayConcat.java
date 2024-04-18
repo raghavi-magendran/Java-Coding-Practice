@@ -10,7 +10,8 @@ public class ArrayConcat {
        }
        
        for(int j=0;j<ans.length;j++)
-       {System.out.println(ans[j]);}
+       {System.out.println(ans[j]);}    
+       
     } 
  }
 
